@@ -1,5 +1,5 @@
 # Software Testing 🔬📰⚗️👨‍🔬
-![Logo](https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149379500.jpg)
+![testing banner](https://i.ibb.co/yQq8jxF/software-testing.jpg)
 
 
 ## Technologies for Testing 🚩
