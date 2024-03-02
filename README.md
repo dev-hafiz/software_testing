@@ -62,19 +62,17 @@
 
 - **Step 1:**
   -  Create a simple React component (`eg,. App.js`).
+
    ```bash
   import React from "react";
-
-function App() {
-  return (
-    <div>
-      <h1>Software Testing With Jest</h1>
-    </div>
-  );
-}
-
+    function App() {
+      return (
+        <div>
+          <h1>Software Testing With Jest</h1>
+        </div>
+      );
+    }
 export default App;
-
 ```
 
 - **Step 2:**
