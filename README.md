@@ -35,11 +35,16 @@
    "scripts": {
     "test": "jest"
   }
-```
+  ```
 
 ###  2. Configuring Jest Environment:
 
+- **Step 1:**
+  -  Install `jest-environment-jsdom`
 
+   ```bash
+     npm install --save-dev @testing-library/jest-dom
+   ```
 
 - **Step 2:**
   -   Update Jest configuration in `package.json` to use `jest-environment-jsdom`
