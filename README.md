@@ -18,11 +18,15 @@
    ```
 - **Step 2:**
   -  Ensure Jest is configured to handle ES modules by installing `babel-jest`, `@babel/core`, and `@babel/preset-env`
+    
    ```bash
    npm install --save-dev babel-jest @babel/core @babel/preset-env
    ```
 - **Step 3:**
   -  Create a Babel configuration file (`.babelrc` or `babel.config.json`) in the project root.
+    
    ```bash
-   {"presets": ["@babel/preset-env", "@babel/preset-react"]}
+   {
+   "presets": ["@babel/preset-env", "@babel/preset-react"]
+   }
    ```
