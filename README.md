@@ -80,18 +80,18 @@
 - **Step 2:**
   -  Write a test for the App component (`eg,. App.test.js`)
 
-```bash
-  import { render, screen } from '@testing-library/react';
-  import '@testing-library/jest-dom/extend-expect'; 
-  
-  import App from '../path/to/App'; 
-  
-  test("First test case for App Component", () => {
-    render(<App />);
-    const text = screen.getByText("Software Testing With Jest");
-    expect(text).toBeInTheDocument();
-  });
- ```
+  ```bash
+    import { render, screen } from '@testing-library/react';
+    import '@testing-library/jest-dom/extend-expect'; 
+    
+    import App from '../path/to/App'; 
+    
+    test("First test case for App Component", () => {
+      render(<App />);
+      const text = screen.getByText("Software Testing With Jest");
+      expect(text).toBeInTheDocument();
+    });
+   ```
 
 
 
