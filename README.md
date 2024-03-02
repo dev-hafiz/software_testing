@@ -30,11 +30,12 @@
    ```
 - **Step 4:**
   -  Update `package.json` to include a test script that executes Jest.
-   ```bash
- "scripts": {
-  "test": "jest"
-}
-   ```
+
+  ```bash
+   "scripts": {
+    "test": "jest"
+  }
+```
 
 ###  2. Configuring Jest Environment:
 
