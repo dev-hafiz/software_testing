@@ -9,6 +9,10 @@
 ### Simplifying React Testing with Jest and React Testing Library
 #### Testing is a crucial aspect of software development that ensures the reliability and stability of your application. In React applications, Jest and React Testing Library are popular choices for writing tests. This tutorial will guide you through setting up the Jest and React Testing Library for testing React components, specifically focusing on configuring Jest to handle ES modules and writing tests for a simple React component.
 
+### Setting up Jest and React Testing Library:
 
-- **Introduction:**
-  - This repository contains a guide on setting up Jest and React Testing Library for testing React components.
+- **Step 1:**
+  - Install Jest and React Testing Library as development dependencies.
+   ```bash
+    npm install --save-dev jest @testing-library/react @testing-library/jest-dom
+   ```
