@@ -6,6 +6,6 @@
 | Jest               |⚛ React Testing Library |
 |------------------------|------------------- |
 
-###Simplifying React Testing with Jest and React Testing Library
+### Simplifying React Testing with Jest and React Testing Library
 
 
