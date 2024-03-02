@@ -24,7 +24,5 @@
 - **Step 3:**
   -  Create a Babel configuration file (`.babelrc` or `babel.config.json`) in the project root.
    ```bash
-   {
-  "presets": ["@babel/preset-env", "@babel/preset-react"]
-}
+   {"presets": ["@babel/preset-env", "@babel/preset-react"]}
    ```
