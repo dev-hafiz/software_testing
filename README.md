@@ -3,7 +3,7 @@
 
 
 ## Technologies for Testing 🚩
-| Jest               |⚛ React Testing Library |
+|🍟 Jest               |⚛ React Testing Library |
 |------------------------|------------------- |
 
 ### Simplifying React Testing with Jest and React Testing Library
