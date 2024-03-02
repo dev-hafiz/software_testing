@@ -71,9 +71,8 @@
           <h1>Software Testing With Jest</h1>
         </div>
       );
-    }
-export default App;
-```
+    }export default App;
+   ```
 
 - **Step 2:**
   -  Write a test for the App component (`eg,. App.test.js`)
