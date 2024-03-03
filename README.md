@@ -93,10 +93,9 @@
     });
    ```
 
---------------------------------------------------------
+
 <p align="center">
-  <h1>Test Case -1: 📖 <a href=""https://github.com/dev-hafiz/software_testing/blob/main/src/__test__/Readme.app.md> Read More </a></h1>
+  <h1>Test Case -1: 📖 <a href="https://github.com/dev-hafiz/software_testing/blob/main/src/__test__/Readme.app.md"> Read More </a></h1>
 </p>
---------------------------------------------------------
 
 
