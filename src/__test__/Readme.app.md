@@ -1,4 +1,4 @@
-## Test Case: First Test Case for App Component
+## Test Case: First Test Case of App Component
 
 ```jsx
 test("First test case for App Component", () => {
