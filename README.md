@@ -95,10 +95,12 @@
 
 
 
-  <h3>📖Read Test Cases  </h3>
+  <h2>📖Read Test Cases  </h2>
 
-  ### <a href="https://github.com/dev-hafiz/software_testing/blob/main/src/__test__/App.test.js">Tested App Component</a>
-  ### <a href="https://github.com/dev-hafiz/software_testing/blob/main/src/__test__/Readme.app.md"> Tested Document</a>
+  ### Tested App Component
+  <a href="https://github.com/dev-hafiz/software_testing/blob/main/src/__test__/App.test.js">see more ...</a>
+  ### Tested Document
+  <a href="https://github.com/dev-hafiz/software_testing/blob/main/src/__test__/Readme.app.md"> see more...</a>
 
 
 
