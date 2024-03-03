@@ -17,3 +17,5 @@ test("First test case for App Component", () => {
   // Assert that the image element is present in the document
   expect(imageTitle).toBeInTheDocument();
 });
+
+1. `test("First test case for App Component", () => {...})`: This line defines a test case using Jest's test function. The first argument is a description of the test case, which helps to identify it in the `test` results. The second argument is a callback function containing the actual test code.
